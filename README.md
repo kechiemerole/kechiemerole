@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kechi Emerole
+Hi, My name is Kechi Emerole
 =====================================================================================================================================
-A tech enthusiast
+A tech enthusiast 
 ------------------------------------
 
 * 🌍  I'm based in Toronto
@@ -35,7 +35,3 @@ A tech enthusiast
 
 <a href="http://www.github.com/kechiemerole"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kechiemerole&bg_color=ffffff&color=000000&line=ec4899&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/kechiemerole"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
--->

@@ -3,10 +3,10 @@ Hi, My name is Kechi Emerole
 A tech enthusiast 
 ------------------------------------
 
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [kechiemerole@gmail.com](mailto:kechiemerole@gmail.com)
-* 🧠  I'm learning react
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  Based in Toronto
+* 🧠  Currently learning React
+* 🤝  Open to collaborating on projects
+* ✉️  Contact me at [kechiemerole@gmail.com](mailto:kechiemerole@gmail.com)
 
 ### Skills
 

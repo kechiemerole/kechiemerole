@@ -6,7 +6,6 @@ A tech enthusiast
 * 🌍  Based in Toronto
 * 🧠  Currently learning React
 * 🤝  Open to collaborating on projects
-* ✉️  Contact me at [kechiemerole@gmail.com](mailto:kechiemerole@gmail.com)
 
 ### Skills
 

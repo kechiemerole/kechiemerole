@@ -2,6 +2,7 @@ Hi, My name is Kechi Emerole
 =====================================================================================================================================
 A tech enthusiast 
 ------------------------------------
+![](https://komarev.com/ghpvc/?username=kechiemerole)
 
 * 🌍  Based in Toronto
 * 🧠  Currently learning React

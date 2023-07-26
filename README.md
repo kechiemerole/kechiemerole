@@ -25,9 +25,5 @@ A tech enthusiast
 
 <p align="left"> <a href="https://www.github.com/kechiemerole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kechi-emerole/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kechiemerole"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kechiemerole&stroke=000000&background=ffffff&ring=444e59&fire=444e59&currStreakNum=000000&currStreakLabel=444e59&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
